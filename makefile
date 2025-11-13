@@ -1,1 +1,1 @@
-all: graphGen WA
+all: graphGen WA routeSearch
